@@ -8,7 +8,9 @@
 		
 		
 - Install dependencies
+- 
 		cd *project_name*
+-
 		npm install
 		
 		
