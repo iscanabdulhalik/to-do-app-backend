@@ -4,6 +4,7 @@
 
 
 - Clone the repository
+- 
 		git clone https://github.com/iscanabdulhalik/to-do.git
 		
 		
@@ -15,6 +16,7 @@
 		
 		
 - Build and run the project
+- 
 		npm start
 		
 		
